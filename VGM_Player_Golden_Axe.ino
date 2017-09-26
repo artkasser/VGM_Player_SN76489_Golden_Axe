@@ -19,7 +19,7 @@ int lednum = 1;
 
 
 /*
- * Here is the VGM data for the track: "Golden Axe - Wilderness track"
+ * Here is the VGM data for the track: "Golden Axe - Wilderness"
  */
 const uint8_t TitleScreen [] PROGMEM = {
   0x50, 0x80, 0x50, 0x00, 0x50, 0xA0, 0x50, 0x00, 0x50, 0xC0, 0x50, 0x00, 0x50, 0xE4, 0x50, 0x91, 
