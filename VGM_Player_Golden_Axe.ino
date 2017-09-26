@@ -5,9 +5,9 @@ const int kPin_D1 = 3;
 const int kPin_D2 = 4;
 const int kPin_D3 = 6;
 const int kPin_D4 = 7;
-const int kPin_D5 = A3;  //12
-const int kPin_D6 = A4;  //11
-const int kPin_D7 = A5;  //10
+const int kPin_D5 = A3;
+const int kPin_D6 = A4;
+const int kPin_D7 = A5;
 const int kPin_NotWE = 5;
 
 const int L1 = A2;
